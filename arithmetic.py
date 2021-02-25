@@ -1,10 +1,5 @@
 """Functions for common math operations."""
 
-
-
-
-
-
 def add(num1, num2):
     """Return the sum of the two inputs."""
 
